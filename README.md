@@ -1,2 +1,2 @@
-# school_informaiton_program
+# school_information_program
 It's very detailed program.
